@@ -7,7 +7,7 @@ The primary objective of this project is to prepare the dataset for analysis of 
 **NOTE**: The analysis of the dataset is out of the scope of this project and this project will *include only data cleaning and preparation*
 
 ## Python and Libraries versions:
-* Python version 3.10.1
-* pandas version 1.4.1
+* Python version 3.8.10
+* pandas version 1.4.2
 * datetime version 5.2
 * openpyxl version 3.1.2
