@@ -10,4 +10,4 @@ The primary objective of this project is to prepare the dataset for analysis of 
 * Python version 3.8.10
 * pandas version 1.4.2
 * datetime version 5.2
-* openpyxl version 3.1.2
+* numpy version 1.21.5
